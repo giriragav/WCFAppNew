@@ -12,7 +12,7 @@ namespace MyWCF
 
         public string GetTextData()
         {
-            return "Hello doer";
+            return "Hello doer(s)";
         }
 
 
