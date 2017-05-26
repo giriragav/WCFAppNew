@@ -1,0 +1,4 @@
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCFClient\bin\MyWCFClient.dll
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCFClient\bin\MyWCFClient.pdb
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCFClient\obj\Debug\MyWCFClient.dll
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCFClient\obj\Debug\MyWCFClient.pdb

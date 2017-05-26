@@ -1,0 +1,7 @@
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\bin\MyWCFHost.dll
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\bin\MyWCFHost.pdb
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\bin\MyWCF.dll
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\bin\MyWCF.pdb
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\obj\Debug\MyWCFHost.csprojResolveAssemblyReference.cache
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\obj\Debug\MyWCFHost.dll
+C:\Users\giridharan.venkatesa\Documents\Visual Studio 2010\Projects\MyWCF\MyWCFHost\obj\Debug\MyWCFHost.pdb

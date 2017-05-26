@@ -1,5 +1,5 @@
-c:\users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\bin\Debug\MyWCF.dll.config
-c:\users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\bin\Debug\MyWCF.dll
-c:\users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\bin\Debug\MyWCF.pdb
-c:\users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\obj\Debug\MyWCF.dll
-c:\users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\obj\Debug\MyWCF.pdb
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\bin\Debug\MyWCF.dll.config
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\bin\Debug\MyWCF.dll
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\bin\Debug\MyWCF.pdb
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\obj\Debug\MyWCF.dll
+C:\Users\giridharan.venkatesa\documents\visual studio 2010\Projects\MyWCF\MyWCF\obj\Debug\MyWCF.pdb
